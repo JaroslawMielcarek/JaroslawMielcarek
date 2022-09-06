@@ -9,7 +9,7 @@
 <h3> 🌱  I’m currently learning: </h3>
 <ul>
   <li> JS ES6 </li>
-  <li> React </li>
+  <li> Vue </li>
 </ul>
 <br/>
 
